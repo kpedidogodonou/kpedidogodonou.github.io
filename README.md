@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kpêdido Godonou
+# 👋 Hi, I'm Kpedido Godonou
 
 Welcome to my GitHub space! I'm currently pursuing a Master's degree at **SRH University** with a strong focus on **Bioinformatics**, **Machine Learning**, and the application of AI in **Biological Sciences**.
 
@@ -16,8 +16,7 @@ I come from a multidisciplinary background — from Agronomy and Carpentry to Di
 While my earlier projects are now archived, they laid the foundation for my current path. Highlights include:
 
 - 🌍 **AXIGBE** – AI-powered local search engine for African services  
-- 🧰 **Automated Tools** – Custom scripts for scraping, summarization & blog generation  
-- 🎨 **Creative Brands** – Founder of Conxol Art Studio & WOOHOUSE DESIGN
+- 🎨 **Creative Brands** – Founder of Conxol Art Studio() & WOOHOUSE DESIGN
 
 ## 🚀 Looking Ahead
 
