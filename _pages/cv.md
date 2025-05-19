@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+find the PDF version [**here**]()
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science and Analytics, SRH University Heidelberg, 2027 (expected)
+* B.S. in Agricultural Economics, University of Abomey Calavi, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2024-March 2025: Solution Engineer 
+  * Archived Project
+  * Duties includes: Developing an AI-powered search engine with Elixi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2022 -  March 2015: Farming Manager 
+  * Managed a diversified farming business across 10+ hectares
+  * Designed and implemented optimized crop production strategies, integrating
+modern techniques and sustainable practices to boost yields, enhance resilience, and preserve soil
+health.
+
+
+* May 2027 - March 2027: Freelancing
+  * Duties included: Creating websites and Apps for businesses
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Data Science
+* Programing Langues 
+  * Python
+  * Elixir
+* SQL
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

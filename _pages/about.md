@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kpedido Godonou"
+title: "Agronomist.exe Is Evolving"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,4 +13,5 @@ From **agribusiness** to **CNC woodworking**, and now to **tech and data**, my j
 
 Currently, I'm pursuing a **Master’s in Technology** at **SRH University Heidelberg in Germany**, where I’m deepening my skills in **Data Science, AI**, and recently find a strong interest in **Bioinformatics** an **Deep Learning applied to Oncology**.
 
-I share my learning through comprehensive [**blog posts**](/year-archive/) and you can find about my projects [here](/portfolio/)
+I share my learning through comprehensive [**blog posts**](/year-archive/) and you can find about my projects [**here**](/portfolio/)
+
