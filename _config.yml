@@ -32,7 +32,7 @@ author:
   email            : "kpedido.godonou@gmail.com" 
 
   # Academic websites
-  academia         : https://www.srh-university.de # URL
+  academia         : # https://www.srh-university.de # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
@@ -47,7 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "kpedidogodonou"
-  kaggle           : # Username  
+  kaggle           : "kpedidogodonou" # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
