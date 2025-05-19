@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-find the PDF version [**here**]()
+find the PDF version <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">here</a>
 
 Education
 ======
