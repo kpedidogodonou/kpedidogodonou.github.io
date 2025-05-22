@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kpedido. Godonou | Data Scientist."
+title                    : "Kpedido Godonou | Data Scientist."
 title_separator          : ""
 name                     : &name "Kpedido Godonou"
 description              : &description "Data Scientist with string interest in Machine Learning and Deep Learning applied to Life Sciences"
