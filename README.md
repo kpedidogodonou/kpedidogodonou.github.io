@@ -22,6 +22,3 @@ While my earlier projects are now archived, they laid the foundation for my curr
 
 I'm now focused on research, collaborations, and open-source contributions at the intersection of biology and machine learning. If you’re working in a related field or just curious — let’s connect!
 
-## 🌐 Connect with Me
-
-- Website: [axigbe.com](https://axigbe.com)  
