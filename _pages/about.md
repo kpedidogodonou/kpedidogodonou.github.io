@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Kpêdido**, a curious mind driven by the desire to build **impactful digital products**.
+Hi, I'm Kpedido Godonou
 
-From **agribusiness** to **CNC woodworking**, and now to **tech and data**, my journey has been anything but linear. I taught myself how to code, developed intelligent tools for small businesses, and launched platforms like [**AXIGBE**](https://www.linkedin.com/company/axigbe/) to make local commerce smarter and more accessible in Benin.
+I’m an aspiring Computational Biologist and data-driven builder exploring how AI and life sciences can come together to solve real problems.
 
-Currently, I'm pursuing a **Master’s in Technology** at **SRH University Heidelberg in Germany**, where I’m deepening my skills in **Data Science, AI**, and recently find a strong interest in **Bioinformatics** an **Deep Learning applied to Life Sciences**.
+My journey has taken me from agribusiness to data science, and now toward computational biology — a space where curiosity meets impact.
 
-I share my learning through comprehensive [**blog posts**](/year-archive/) and you can find about my projects [**here**](/portfolio/)
-
+I’m currently based in Heidelberg, Germany, pursuing my studies and working on projects that combine machine learning, data analysis, and biological research. My goal is to build tools that make complex science more accessible and actionable.
