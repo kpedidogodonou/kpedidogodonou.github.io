@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Kpedido Godonou | Computational Biologist."
 title_separator          : ""
 name                     : &name "Kpedido Godonou"
-description              : &description "Data Scientist with string interest in Machine Learning and Deep Learning applied to Life Sciences"
+description              : &description "Computational Biologist"
 url                      : https://kpedido.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kpedidogodonou/kpedidogodonou.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist with a strong interest in ML and DL applied to Life Science"
   location         : "Heidelberg, Germany"
-  employer         : ""
+  employer         : #""
   uri              : # URL
   email            : "kpedido.godonou@gmail.com" 
 
@@ -221,7 +221,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: false
