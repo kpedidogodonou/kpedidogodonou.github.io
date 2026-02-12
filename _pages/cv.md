@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Find- the PDF version [**here**]({{ base_path }}/files/cv.pdf)
+Find the PDF version [**here**]({{ base_path }}/files/cv.pdf)
  
